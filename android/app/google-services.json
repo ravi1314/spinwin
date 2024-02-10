@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133342272401",
+    "project_id": "spinwin-b58be",
+    "storage_bucket": "spinwin-b58be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133342272401:android:23fd1e5e1b3ea5d7d65830",
+        "android_client_info": {
+          "package_name": "com.example.spin_win"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACU4NT3_wzGgi1hemuiKZOuC5jRecdyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
